@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "nivel1.C": "cpp"
+        "nivel1.C": "cpp",
+        "inicio.C": "cpp"
     }
 }
